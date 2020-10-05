@@ -5,4 +5,4 @@ Link del proyecto en Google Colab: https://colab.research.google.com/drive/1tt4G
 
 Link del archivo CSV con temperaturas: https://github.com/Allan505-code/Temperaturas-del-mar-isla/blob/main/temperaturas%20de%20la%20isla%20coiba.csv
 
-Video demo en los archivos
+Link al video demostrativo: https://youtu.be/jkAWDnNGJEs
